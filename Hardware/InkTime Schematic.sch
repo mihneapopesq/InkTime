@@ -6327,7 +6327,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/SI1308EDL-T1-
 </class>
 </classes>
 <parts>
-<part name="U1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="NORDIC_NRF_4_NRF52840_QF" device="" value="NRF52840_QF"/>
+<part uuid="0xABCDEF1F" name="U1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="NORDIC_NRF_4_NRF52840_QF" device="" value="NRF52840_QF"/>
 <part name="SUPPLY1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="C8" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="100nF"/>
 <part name="SUPPLY2" library="Power_Symbols" library_urn="urn:adsk.eagle:library:16502351" deviceset="GND-BAR" device="" value="GND"/>
@@ -6376,7 +6376,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/SI1308EDL-T1-
 <part name="C22" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="N.C."/>
 <part name="SUPPLY20" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="TUTORIAL---FUSION-360_GND-BAR" device="" value="GND"/>
 <part name="ANT1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="2450AT18B100E_2450AT18B100E" device="" value="2450AT18B100E"/>
-<part name="IC1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="BQ25180YBGR_BQ25180YBGR" device="" value="BQ25180YBGR"/>
+<part uuid="0xABCDEF0F" name="IC1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="BQ25180YBGR_BQ25180YBGR" device="" value="BQ25180YBGR"/>
 <part name="C39" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0402_L" value="10uF\"/>
 <part name="SUPPLY21" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="TUTORIAL---FUSION-360_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY22" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="TUTORIAL---FUSION-360_GND-BAR" device="" value="GND"/>
@@ -6384,7 +6384,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/SI1308EDL-T1-
 <part name="SUPPLY24" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="R9" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="ERA-1AEB3401C_CPF0201D7K68C1" device="" value="10K"/>
 <part name="SUPPLY25" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="L7" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="MLP2016SR47MT0S1_FTC252012SR47MBCA" device=""/>
+<part uuid="0xABCDEF09" name="L7" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="MLP2016SR47MT0S1_FTC252012SR47MBCA" device="" value="FTC252012SR47MBCA"/>
 <part name="IC9" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="RT6160AWSC_RT6160AWSC" device="" value="RT6160AWSC"/>
 <part name="SUPPLY26" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="TUTORIAL---FUSION-360_GND-BAR" device="" value="GND"/>
 <part name="R4" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="0"/>
@@ -6432,7 +6432,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/SI1308EDL-T1-
 <part name="EPD_C10" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JsBoF3kMSYaj81cftw4Bpw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0402_L" value="1uF/50V"/>
 <part name="EPD_C11" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JsBoF3kMSYaj81cftw4Bpw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0402_L" value="1uF/50V"/>
 <part name="EPD_C12" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JsBoF3kMSYaj81cftw4Bpw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0402_L" value="1uF/50V"/>
-<part name="U3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="ESP32_C6_LIBRARY_MAX17048G+T10" device="" value="MAX17048G+T10"/>
+<part uuid="0xABCDEF0D" name="U3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="ESP32_C6_LIBRARY_MAX17048G+T10" device="" value="MAX17048G+T10"/>
 <part name="SUPPLY38" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY39" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY40" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
@@ -6444,12 +6444,12 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/SI1308EDL-T1-
 <part name="SUPPLY43" library="Power_Symbols" library_urn="urn:adsk.eagle:library:16502351" deviceset="AGND" device="" value="GND"/>
 <part name="C1-EP-DR" library="Libraria_DANI" library_urn="urn:adsk.wipprod:fs.file:vf.6thThEW2Taar68j57l-5Ng" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0402_L" value="10uF"/>
 <part name="L5" library="Libraria_DANI" library_urn="urn:adsk.wipprod:fs.file:vf.6thThEW2Taar68j57l-5Ng" deviceset="NORDIC_NRF_2_INDUCTOR" device="_0402_L" value="68uH"/>
-<part name="D5" library="Libraria_DANI" library_urn="urn:adsk.wipprod:fs.file:vf.6thThEW2Taar68j57l-5Ng" deviceset="ESP32_C6_LIBRARY_5_MBR0530" device="" value="MBR0530"/>
+<part uuid="0xABCDEF07" name="D5" library="Libraria_DANI" library_urn="urn:adsk.wipprod:fs.file:vf.6thThEW2Taar68j57l-5Ng" deviceset="ESP32_C6_LIBRARY_5_MBR0530" device="" value="MBR0530"/>
 <part name="C2-EP-DR" library="Libraria_DANI" library_urn="urn:adsk.wipprod:fs.file:vf.6thThEW2Taar68j57l-5Ng" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0402_L" value="4.7uF/25V"/>
-<part name="D2" library="Libraria_DANI" library_urn="urn:adsk.wipprod:fs.file:vf.6thThEW2Taar68j57l-5Ng" deviceset="ESP32_C6_LIBRARY_5_MBR0530" device="" value="MBR0530"/>
-<part name="D4" library="Libraria_DANI" library_urn="urn:adsk.wipprod:fs.file:vf.6thThEW2Taar68j57l-5Ng" deviceset="ESP32_C6_LIBRARY_5_MBR0530" device="" value="MBR0530"/>
+<part uuid="0xABCDEF03" name="D2" library="Libraria_DANI" library_urn="urn:adsk.wipprod:fs.file:vf.6thThEW2Taar68j57l-5Ng" deviceset="ESP32_C6_LIBRARY_5_MBR0530" device="" value="MBR0530"/>
+<part uuid="0xABCDEF01" name="D4" library="Libraria_DANI" library_urn="urn:adsk.wipprod:fs.file:vf.6thThEW2Taar68j57l-5Ng" deviceset="ESP32_C6_LIBRARY_5_MBR0530" device="" value="MBR0530"/>
 <part name="SUPPLY44" library="Power_Symbols" library_urn="urn:adsk.eagle:library:16502351" deviceset="AGND" device="" value="GND"/>
-<part name="Q3" library="Libraria_DANI" library_urn="urn:adsk.wipprod:fs.file:vf.6thThEW2Taar68j57l-5Ng" deviceset="ESP32_C6_LIBRARY_6_SI1308EDL-T1-GE3" device="" value="SI1308EDL-T1-GE3"/>
+<part uuid="0xABCDEF05" name="Q3" library="Libraria_DANI" library_urn="urn:adsk.wipprod:fs.file:vf.6thThEW2Taar68j57l-5Ng" deviceset="ESP32_C6_LIBRARY_6_SI1308EDL-T1-GE3" device="" value="SI1308EDL-T1-GE3"/>
 <part name="R1_EP_DR" library="Libraria_DANI" library_urn="urn:adsk.wipprod:fs.file:vf.6thThEW2Taar68j57l-5Ng" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="0.47"/>
 <part name="SJ1" library="Libraria_DANI" library_urn="urn:adsk.wipprod:fs.file:vf.6thThEW2Taar68j57l-5Ng" deviceset="ESP32_C6_LIBRARY_7_JUMPER_SJ" device=""/>
 <part name="R_TYPE_SEL" library="Libraria_DANI" library_urn="urn:adsk.wipprod:fs.file:vf.6thThEW2Taar68j57l-5Ng" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="2.2"/>
@@ -6471,10 +6471,10 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/SI1308EDL-T1-
 <part name="SUPPLY54" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="TUTORIAL---FUSION-360_GND-BAR" device="" value="GND"/>
 <part name="FRAME1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="FRAMES_A3L-LOC" device=""/>
 <part name="FRAME2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="FRAMES_A3L-LOC" device=""/>
-<part name="Q2" library="Libraria_DANI" library_urn="urn:adsk.wipprod:fs.file:vf.6thThEW2Taar68j57l-5Ng" deviceset="ESP32_C6_LIBRARY_4_ESP32_WROVER_SPARKFUN-DISCRETESEMI_MOSFET_PCH" device="-DMG2305UX-7" value="20V/4.2A/52mΩ/1.4W"/>
+<part uuid="0xABCDEF1D" name="Q2" library="Libraria_DANI" library_urn="urn:adsk.wipprod:fs.file:vf.6thThEW2Taar68j57l-5Ng" deviceset="ESP32_C6_LIBRARY_4_ESP32_WROVER_SPARKFUN-DISCRETESEMI_MOSFET_PCH" device="-DMG2305UX-7" value="20V/4.2A/52mΩ/1.4W"/>
 <part name="R_PWR_EPD1" library="Libraria_DANI" library_urn="urn:adsk.wipprod:fs.file:vf.6thThEW2Taar68j57l-5Ng" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="10K"/>
-<part name="D1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="ESP32_C6_LIBRARY_3_USBLC6-2SC6Y" device="" value="USBLC6-2SC6Y"/>
-<part name="IC2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JsBoF3kMSYaj81cftw4Bpw" deviceset="DRV2605YZFR_DRV2605YZFR" device="" value="DRV2605YZFR"/>
+<part uuid="0xABCDEF19" name="D1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="ESP32_C6_LIBRARY_3_USBLC6-2SC6Y" device="" value="USBLC6-2SC6Y"/>
+<part uuid="0xABCDEF0B" name="IC2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JsBoF3kMSYaj81cftw4Bpw" deviceset="DRV2605YZFR_DRV2605YZFR" device="" value="DRV2605YZFR"/>
 <part name="SUPPLY55" library="Tutorial - Fusion 360" library_urn="urn:adsk.eagle:library:16997205" deviceset="GND-BAR" device="" value="GND"/>
 <part name="C34" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JsBoF3kMSYaj81cftw4Bpw" deviceset="GRM011R60J152KE01L_1_GRM011R60J152KE01L" device="" value="0.1uF"/>
 <part name="SUPPLY56" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
@@ -6483,9 +6483,9 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/SI1308EDL-T1-
 <part name="SUPPLY57" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="C32" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JsBoF3kMSYaj81cftw4Bpw" deviceset="GRM011R60J152KE01L_1_GRM011R60J152KE01L" device="" value="1uF"/>
 <part name="SUPPLY58" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="SW_ENT" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN"/>
-<part name="SW_UP" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN"/>
-<part name="SW_DN" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN"/>
+<part uuid="0xABCDEF15" name="SW_ENT" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN"/>
+<part uuid="0xABCDEF17" name="SW_UP" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN"/>
+<part uuid="0xABCDEF1B" name="SW_DN" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN"/>
 <part name="C29" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0402_L" value="1uF"/>
 <part name="C31" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0402_L" value="1uF"/>
 <part name="C30" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0402_L" value="1uF"/>
@@ -6541,6 +6541,7 @@ Driver</text>
 <text x="203.2" y="-251.46" size="1.27" layer="97" rot="R90" align="center-right">10k</text>
 <text x="177.8" y="-251.46" size="1.27" layer="97" rot="R90" align="center-right">10k</text>
 <text x="154.94" y="-251.46" size="1.27" layer="97" rot="R90" align="center-right">10k</text>
+<text x="-55.88" y="66.04" size="1.4224" layer="97">FTC252012SR47MBCA</text>
 </plain>
 <instances>
 <instance part="U1" gate="G$1" x="40.64" y="15.24" smashed="yes">
