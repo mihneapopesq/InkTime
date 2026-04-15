@@ -2199,7 +2199,7 @@ design rules under a new name.</description>
 <attribute name="NAME" x="83.3504" y="58.98" size="1.27" layer="25"/>
 <attribute name="VALUE" x="83.3504" y="55.98" size="1.27" layer="27"/>
 </element>
-<element name="D1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" package="ESP32_C6_LIBRARY_3_SOT95P280X145-6N" value="USBLC6-2SC6Y" x="80.01" y="72.39" smashed="yes">
+<element uuid="0xABCDEF18" name="D1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" package="ESP32_C6_LIBRARY_3_SOT95P280X145-6N" value="USBLC6-2SC6Y" x="80.01" y="72.39" smashed="yes">
 <attribute name="AVAILABILITY" value="In Stock" x="146.05" y="-90.17" size="1.778" layer="27" display="off"/>
 <attribute name="CHECK_PRICES" value="https://www.snapeda.com/parts/USBLC6-2SC6Y/STMicroelectronics/view-part/?ref=eda" x="146.05" y="-90.17" size="1.778" layer="27" display="off"/>
 <attribute name="DESCRIPTION" value=" 17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6 " x="146.05" y="-90.17" size="1.778" layer="27" display="off"/>
@@ -2211,7 +2211,7 @@ design rules under a new name.</description>
 <attribute name="SNAPEDA_LINK" value="https://www.snapeda.com/parts/USBLC6-2SC6Y/STMicroelectronics/view-part/?ref=snap" x="146.05" y="-90.17" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="80.01" y="72.39" size="1.27" layer="27" align="center"/>
 </element>
-<element name="D2" library="Libraria_DANI" library_urn="urn:adsk.wipprod:fs.file:vf.6thThEW2Taar68j57l-5Ng" package="ESP32_C6_LIBRARY_5_SOD3716X135N" value="MBR0530" x="65.14" y="69.51" smashed="yes" rot="R271.1">
+<element uuid="0xABCDEF02" name="D2" library="Libraria_DANI" library_urn="urn:adsk.wipprod:fs.file:vf.6thThEW2Taar68j57l-5Ng" package="ESP32_C6_LIBRARY_5_SOD3716X135N" value="MBR0530" x="65.14" y="69.51" smashed="yes" rot="R271.1">
 <attribute name="AVAILABILITY" value="In Stock" x="-95.878434375" y="-12.336225" size="1.778" layer="27" rot="R271.1" display="off"/>
 <attribute name="CHECK_PRICES" value="https://www.snapeda.com/parts/MBR0530/Onsemi/view-part/?ref=eda" x="-95.878434375" y="-12.336225" size="1.778" layer="27" rot="R271.1" display="off"/>
 <attribute name="DESCRIPTION" value=" Diode Schottky 30 V 500mA Surface Mount SOD-123 " x="-95.878434375" y="-12.336225" size="1.778" layer="27" rot="R271.1" display="off"/>
@@ -2224,7 +2224,7 @@ design rules under a new name.</description>
 <attribute name="SNAPEDA_LINK" value="https://www.snapeda.com/parts/MBR0530/Onsemi/view-part/?ref=snap" x="-95.878434375" y="-12.336225" size="1.778" layer="27" rot="R271.1" display="off"/>
 <attribute name="VALUE" x="65.14" y="69.51" size="1.27" layer="27" rot="R271.1" align="center"/>
 </element>
-<element name="D4" library="Libraria_DANI" library_urn="urn:adsk.wipprod:fs.file:vf.6thThEW2Taar68j57l-5Ng" package="ESP32_C6_LIBRARY_5_SOD3716X135N" value="MBR0530" x="63.5" y="57.2515" smashed="yes">
+<element uuid="0xABCDEF00" name="D4" library="Libraria_DANI" library_urn="urn:adsk.wipprod:fs.file:vf.6thThEW2Taar68j57l-5Ng" package="ESP32_C6_LIBRARY_5_SOD3716X135N" value="MBR0530" x="63.5" y="57.2515" smashed="yes">
 <attribute name="AVAILABILITY" value="In Stock" x="152.4" y="-105.3085" size="1.778" layer="27" display="off"/>
 <attribute name="CHECK_PRICES" value="https://www.snapeda.com/parts/MBR0530/Onsemi/view-part/?ref=eda" x="152.4" y="-105.3085" size="1.778" layer="27" display="off"/>
 <attribute name="DESCRIPTION" value=" Diode Schottky 30 V 500mA Surface Mount SOD-123 " x="152.4" y="-105.3085" size="1.778" layer="27" display="off"/>
@@ -2237,7 +2237,7 @@ design rules under a new name.</description>
 <attribute name="SNAPEDA_LINK" value="https://www.snapeda.com/parts/MBR0530/Onsemi/view-part/?ref=snap" x="152.4" y="-105.3085" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="63.5" y="57.2515" size="1.27" layer="27" align="center"/>
 </element>
-<element name="D5" library="Libraria_DANI" library_urn="urn:adsk.wipprod:fs.file:vf.6thThEW2Taar68j57l-5Ng" package="ESP32_C6_LIBRARY_5_SOD3716X135N" value="MBR0530" x="57.5015375" y="69.0476" smashed="yes">
+<element uuid="0xABCDEF06" name="D5" library="Libraria_DANI" library_urn="urn:adsk.wipprod:fs.file:vf.6thThEW2Taar68j57l-5Ng" package="ESP32_C6_LIBRARY_5_SOD3716X135N" value="MBR0530" x="57.5015375" y="69.0476" smashed="yes">
 <attribute name="AVAILABILITY" value="In Stock" x="156.5615375" y="-93.5124" size="1.778" layer="27" display="off"/>
 <attribute name="CHECK_PRICES" value="https://www.snapeda.com/parts/MBR0530/Onsemi/view-part/?ref=eda" x="156.5615375" y="-93.5124" size="1.778" layer="27" display="off"/>
 <attribute name="DESCRIPTION" value=" Diode Schottky 30 V 500mA Surface Mount SOD-123 " x="156.5615375" y="-93.5124" size="1.778" layer="27" display="off"/>
@@ -2290,7 +2290,7 @@ design rules under a new name.</description>
 <attribute name="NAME" x="57.12" y="67.24" size="1.27" layer="25"/>
 <attribute name="VALUE" x="57.12" y="64.24" size="1.27" layer="27"/>
 </element>
-<element name="IC1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" package="BQ25180YBGR_BGA8C40P2X4_100X155X50" value="BQ25180YBGR" x="68.25" y="59.32" smashed="yes">
+<element uuid="0xABCDEF0E" name="IC1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" package="BQ25180YBGR_BGA8C40P2X4_100X155X50" value="BQ25180YBGR" x="68.25" y="59.32" smashed="yes">
 <attribute name="ARROW_PART_NUMBER" value="BQ25180YBGR" x="115.24" y="-103.24" size="1.778" layer="27" display="off"/>
 <attribute name="ARROW_PRICE-STOCK" value="https://www.arrow.com/en/products/bq25180ybgr/texas-instruments?utm_currency=USD&amp;region=nac" x="115.24" y="-103.24" size="1.778" layer="27" display="off"/>
 <attribute name="DESCRIPTION" value="Charger IC Lithium Ion/Polymer, Lithium Iron Phosphate 8-DSBGA (1.6x1.1)" x="115.24" y="-103.24" size="1.778" layer="27" display="off"/>
@@ -2302,7 +2302,7 @@ design rules under a new name.</description>
 <attribute name="NAME" x="68.25" y="61.86" size="1.27" layer="25" align="center"/>
 <attribute name="VALUE" x="69.52" y="64.4" size="1.27" layer="27" align="center"/>
 </element>
-<element name="IC2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JsBoF3kMSYaj81cftw4Bpw" package="DRV2605YZFR_BGA9C50P3X3_144X144X62" value="DRV2605YZFR" x="85.19" y="63.7" smashed="yes">
+<element uuid="0xABCDEF0A" name="IC2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.JsBoF3kMSYaj81cftw4Bpw" package="DRV2605YZFR_BGA9C50P3X3_144X144X62" value="DRV2605YZFR" x="85.19" y="63.7" smashed="yes">
 <attribute name="ARROW_PART_NUMBER" value="DRV2605YZFR" x="105.51" y="-76" size="1.778" layer="27" display="off"/>
 <attribute name="ARROW_PRICE-STOCK" value="https://www.arrow.com/en/products/drv2605yzfr/texas-instruments?region=nac" x="105.51" y="-76" size="1.778" layer="27" display="off"/>
 <attribute name="DESCRIPTION" value="Haptic Driver for ERM/LRA with Built-In Library and Smart Loop Architecture" x="105.51" y="-76" size="1.778" layer="27" display="off"/>
@@ -2358,7 +2358,7 @@ design rules under a new name.</description>
 <attribute name="NAME" x="65.55" y="52.07" size="1.27" layer="25" align="center"/>
 <attribute name="VALUE" x="65.55" y="52.07" size="1.27" layer="27" align="center"/>
 </element>
-<element name="J4" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" package="KH-TYPE-C-16P_KINGHELM_KH-TYPE-C-16P" value="KH-TYPE-C-16P" x="72.2812" y="73.5088" smashed="yes" rot="R180">
+<element uuid="0xABCDEF11" name="J4" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" package="KH-TYPE-C-16P_KINGHELM_KH-TYPE-C-16P" value="KH-TYPE-C-16P" x="72.2812" y="73.5088" smashed="yes" rot="R180">
 <attribute name="AVAILABILITY" value="Not in stock" x="-34.3988" y="161.1388" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="CHECK_PRICES" value="https://www.snapeda.com/parts/KH-TYPE-C-16P/Kinghelm/view-part/?ref=eda" x="-34.3988" y="161.1388" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="DESCRIPTION" value="                                                                                                    " x="-34.3988" y="161.1388" size="1.778" layer="27" rot="R180" display="off"/>
@@ -2386,7 +2386,7 @@ design rules under a new name.</description>
 <attribute name="NAME" x="51.14" y="67.4722" size="1.27" layer="25"/>
 <attribute name="VALUE" x="51.14" y="64.4722" size="1.27" layer="27"/>
 </element>
-<element name="L7" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" package="MLP2016SR47MT0S1_INDC2016X100N" value="MLP2016SR47MT0S1_FTC252012SR47MBCA" x="73.3196" y="51.07" smashed="yes">
+<element uuid="0xABCDEF08" name="L7" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" package="MLP2016SR47MT0S1_INDC2016X100N" value="MLP2016SR47MT0S1_FTC252012SR47MBCA" x="73.3196" y="51.07" smashed="yes">
 <attribute name="ARROW_PART_NUMBER" value="" x="136.8196" y="-79.74" size="1.778" layer="27" display="off"/>
 <attribute name="ARROW_PRICE-STOCK" value="" x="136.8196" y="-79.74" size="1.778" layer="27" display="off"/>
 <attribute name="DESCRIPTION" value="SMD / SMT Inductors (Coils), L=0.47?H, L x W x T :" x="136.8196" y="-79.74" size="1.778" layer="27" display="off"/>
@@ -2398,12 +2398,12 @@ design rules under a new name.</description>
 <attribute name="NAME" x="73.3196" y="48.53" size="1.27" layer="25" align="center"/>
 <attribute name="VALUE" x="73.3196" y="54.88" size="1.27" layer="27" align="center"/>
 </element>
-<element name="Q2" library="Libraria_DANI" library_urn="urn:adsk.wipprod:fs.file:vf.6thThEW2Taar68j57l-5Ng" package="ESP32_C6_LIBRARY_4_ESP32_C6_LIBRARY_4_ESP32_C6_LIBRARY_4_ESP32_C6_LIBRARY_4_ESP32_WROVER_SPARKFUN-DISCRETESEMI_SOT23-3" value="20V/4.2A/52mΩ/1.4W" x="60.58" y="72.2022" smashed="yes">
+<element uuid="0xABCDEF1C" name="Q2" library="Libraria_DANI" library_urn="urn:adsk.wipprod:fs.file:vf.6thThEW2Taar68j57l-5Ng" package="ESP32_C6_LIBRARY_4_ESP32_C6_LIBRARY_4_ESP32_C6_LIBRARY_4_ESP32_C6_LIBRARY_4_ESP32_WROVER_SPARKFUN-DISCRETESEMI_SOT23-3" value="20V/4.2A/52mΩ/1.4W" x="60.58" y="72.2022" smashed="yes">
 <attribute name="NAME" x="58.929" y="72.2022" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
 <attribute name="PROD_ID" value="TRAN-14388" x="88.52" y="-59.8778" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="62.231" y="72.2022" size="0.6096" layer="27" font="vector" ratio="20" rot="R90" align="top-center"/>
 </element>
-<element name="Q3" library="Libraria_DANI" library_urn="urn:adsk.wipprod:fs.file:vf.6thThEW2Taar68j57l-5Ng" package="ESP32_C6_LIBRARY_6_SOT65P210X110-3N" value="SI1308EDL-T1-GE3" x="55.86" y="72.39" smashed="yes">
+<element uuid="0xABCDEF04" name="Q3" library="Libraria_DANI" library_urn="urn:adsk.wipprod:fs.file:vf.6thThEW2Taar68j57l-5Ng" package="ESP32_C6_LIBRARY_6_SOT65P210X110-3N" value="SI1308EDL-T1-GE3" x="55.86" y="72.39" smashed="yes">
 <attribute name="AVAILABILITY" value="In Stock" x="168.89" y="-90.17" size="1.778" layer="27" display="off"/>
 <attribute name="CHECK_PRICES" value="https://www.snapeda.com/parts/SI1308EDL-T1-GE3/Vishay+Siliconix/view-part/?ref=eda" x="168.89" y="-90.17" size="1.778" layer="27" display="off"/>
 <attribute name="DESCRIPTION" value=" Si1308EDL-T1-GE3 N-channel MOSFET Transistor, 1.5 A, 30 V, 3-Pin SC-70 | Siliconix / Vishay SI1308EDL-T1-GE3 " x="168.89" y="-90.17" size="1.778" layer="27" display="off"/>
@@ -2451,7 +2451,7 @@ design rules under a new name.</description>
 <attribute name="POPULARITY" value="3" x="107.35" y="-100.53" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="70.9201" y="62.03" size="0.02" layer="27"/>
 </element>
-<element name="SW_DN" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" package="2025-10-22_07-23-44_LIBRARY_SW_EVP-AKE31A_PAN" value="2025-10-22_07-23-44_LIBRARY_EVP-AKE31ASW_EVP-AKE31A_PAN" x="81.28" y="43.5866" smashed="yes" rot="R180">
+<element uuid="0xABCDEF1A" name="SW_DN" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" package="2025-10-22_07-23-44_LIBRARY_SW_EVP-AKE31A_PAN" value="2025-10-22_07-23-44_LIBRARY_EVP-AKE31ASW_EVP-AKE31A_PAN" x="81.28" y="43.5866" smashed="yes" rot="R180">
 <attribute name="COPYRIGHT" value="Copyright (C) 2025 Ultra Librarian. All rights reserved." x="11.43" y="72.7966" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="DIGI-KEY_PART_NUMBER_1" value="P123437TR-ND" x="11.43" y="72.7966" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="DIGI-KEY_PART_NUMBER_2" value="P123437CT-ND" x="11.43" y="72.7966" size="1.778" layer="27" rot="R180" display="off"/>
@@ -2461,7 +2461,7 @@ design rules under a new name.</description>
 <attribute name="NAME" x="84.5512" y="45.1931" size="1.27" layer="27" ratio="6" rot="R180"/>
 <attribute name="VALUE" x="89.3588" y="50.2731" size="1.27" layer="27" ratio="6" rot="R180"/>
 </element>
-<element name="SW_ENT" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" package="2025-10-22_07-23-44_LIBRARY_SW_EVP-AKE31A_PAN" value="2025-10-22_07-23-44_LIBRARY_EVP-AKE31ASW_EVP-AKE31A_PAN" x="70.1891625" y="43.5422" smashed="yes" rot="R180">
+<element uuid="0xABCDEF14" name="SW_ENT" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" package="2025-10-22_07-23-44_LIBRARY_SW_EVP-AKE31A_PAN" value="2025-10-22_07-23-44_LIBRARY_EVP-AKE31ASW_EVP-AKE31A_PAN" x="70.1891625" y="43.5422" smashed="yes" rot="R180">
 <attribute name="COPYRIGHT" value="Copyright (C) 2025 Ultra Librarian. All rights reserved." x="0.3391625" y="114.6622" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="DIGI-KEY_PART_NUMBER_1" value="P123437TR-ND" x="0.3391625" y="114.6622" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="DIGI-KEY_PART_NUMBER_2" value="P123437CT-ND" x="0.3391625" y="114.6622" size="1.778" layer="27" rot="R180" display="off"/>
@@ -2471,7 +2471,7 @@ design rules under a new name.</description>
 <attribute name="NAME" x="73.4603625" y="45.1487" size="1.27" layer="27" ratio="6" rot="R180"/>
 <attribute name="VALUE" x="71.9179625" y="45.1487" size="1.27" layer="27" ratio="6" rot="R180"/>
 </element>
-<element name="SW_UP" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" package="2025-10-22_07-23-44_LIBRARY_SW_EVP-AKE31A_PAN" value="2025-10-22_07-23-44_LIBRARY_EVP-AKE31ASW_EVP-AKE31A_PAN" x="59.29" y="43.5422" smashed="yes" rot="R180">
+<element uuid="0xABCDEF16" name="SW_UP" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" package="2025-10-22_07-23-44_LIBRARY_SW_EVP-AKE31A_PAN" value="2025-10-22_07-23-44_LIBRARY_EVP-AKE31ASW_EVP-AKE31A_PAN" x="59.29" y="43.5422" smashed="yes" rot="R180">
 <attribute name="COPYRIGHT" value="Copyright (C) 2025 Ultra Librarian. All rights reserved." x="-10.56" y="156.5722" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="DIGI-KEY_PART_NUMBER_1" value="P123437TR-ND" x="-10.56" y="156.5722" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="DIGI-KEY_PART_NUMBER_2" value="P123437CT-ND" x="-10.56" y="156.5722" size="1.778" layer="27" rot="R180" display="off"/>
@@ -2565,11 +2565,11 @@ design rules under a new name.</description>
 <attribute name="TP_SIGNAL_NAME" value="" x="82.15" y="47.9" size="1" layer="37"/>
 <attribute name="VALUE" x="81.388" y="49.424" size="0.0254" layer="27"/>
 </element>
-<element name="U1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" package="NORDIC_NRF_4_AQFN50P700X700X85_HS-74N" value="NRF52840_QF" x="78.74" y="63.4" smashed="yes">
+<element uuid="0xABCDEF1E" name="U1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" package="NORDIC_NRF_4_AQFN50P700X700X85_HS-74N" value="NRF52840_QF" x="78.74" y="63.4" smashed="yes">
 <attribute name="NAME" x="76.24" y="67.4" size="1" layer="25"/>
 <attribute name="VALUE" x="76.24" y="58.4" size="1" layer="27"/>
 </element>
-<element name="U3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" package="ESP32_C6_LIBRARY_SON50P200X200X80-9N" value="MAX17048G+T10" x="89.70040625" y="45.07589375" smashed="yes">
+<element uuid="0xABCDEF0C" name="U3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" package="ESP32_C6_LIBRARY_SON50P200X200X80-9N" value="MAX17048G+T10" x="89.70040625" y="45.07589375" smashed="yes">
 <attribute name="AVAILABILITY" value="In Stock" x="195.11040625" y="-85.73410625" size="1.778" layer="27" display="off"/>
 <attribute name="CHECK_PRICES" value="https://www.snapeda.com/parts/MAX17048G+T10/Analog+Devices/view-part/?ref=eda" x="195.11040625" y="-85.73410625" size="1.778" layer="27" display="off"/>
 <attribute name="DESCRIPTION" value=" 3µA 1-Cell/2-Cell Fuel Gauge with ModelGauge " x="195.11040625" y="-85.73410625" size="1.778" layer="27" display="off"/>
@@ -3386,8 +3386,8 @@ design rules under a new name.</description>
 <wire x1="70.9" y1="47.2" x2="72.9" y2="49.2" width="0.1524" layer="1"/>
 <wire x1="72.9" y1="49.2" x2="75.3" y2="49.2" width="0.1524" layer="1"/>
 <wire x1="75.3" y1="49.2" x2="75.6" y2="49.5" width="0.1524" layer="1"/>
-<wire x1="75.6" y1="49.5" x2="75.6" y2="51.1" width="0.1524" layer="1"/>
-<wire x1="75.6" y1="51.1" x2="80.2" y2="51.1" width="0.1524" layer="1"/>
+<wire x1="75.6" y1="49.5" x2="75.6" y2="51" width="0.1524" layer="1"/>
+<wire x1="75.7" y1="51.1" x2="80.2" y2="51.1" width="0.1524" layer="1"/>
 <wire x1="80.2" y1="51.1" x2="81.7203" y2="52.6203" width="0.1524" layer="1"/>
 <wire x1="81.7203" y1="52.6203" x2="81.74" y2="52.64" width="0.1524" layer="1"/>
 <wire x1="81.74" y1="52.64" x2="85.59" y2="52.64" width="0.1524" layer="1"/>
@@ -3409,6 +3409,7 @@ design rules under a new name.</description>
 </via>
 <via x="81.0006" y="54.5592" extent="1-16" drill="0.15">
 </via>
+<wire x1="75.6" y1="51" x2="75.7" y2="51.1" width="0.1524" layer="1"/>
 </signal>
 <signal name="SWDCLK">
 <contactref element="U1" pad="P$AA24"/>
@@ -4234,11 +4235,10 @@ design rules under a new name.</description>
 <contactref element="L7" pad="2"/>
 <contactref element="IC9" pad="D2"/>
 <contactref element="IC9" pad="D3"/>
-<wire x1="73.59" y1="58.82" x2="74.28" y2="58.82" width="0.1524" layer="1"/>
-<wire x1="74.28" y1="58.82" x2="74.3" y2="58.8" width="0.1524" layer="1"/>
-<wire x1="74.3" y1="58.8" x2="74.3" y2="57.3" width="0.1524" layer="1"/>
+<wire x1="73.59" y1="58.82" x2="73.9" y2="58.82" width="0.1524" layer="1"/>
 <via x="74.3" y="57.3" extent="1-16" drill="0.35" alwaysstop="yes">
 </via>
+<wire x1="74.3" y1="58.42" x2="74.3" y2="57.3" width="0.1524" layer="1"/>
 <wire x1="74.3" y1="57.3" x2="74.3" y2="52.7" width="0.1524" layer="2"/>
 <via x="74.3" y="52.7" extent="1-16" drill="0.35" alwaysstop="yes">
 </via>
@@ -4247,6 +4247,7 @@ design rules under a new name.</description>
 <wire x1="73.533" y1="58.8264" x2="73.2282" y2="58.8264" width="0.1524" layer="1"/>
 <wire x1="73.2282" y1="58.8264" x2="73.19" y2="58.82" width="0.1524" layer="1"/>
 <wire x1="73.533" y1="58.8264" x2="73.59" y2="58.82" width="0.1524" layer="1"/>
+<wire x1="73.9" y1="58.82" x2="74.3" y2="58.42" width="0.1524" layer="1"/>
 </signal>
 <signal name="LX1">
 <contactref element="L7" pad="1"/>
@@ -4311,7 +4312,7 @@ design rules under a new name.</description>
 <wire x1="54.7878" y1="72.9996" x2="54.7116" y2="72.9234" width="0.1524" layer="1"/>
 <wire x1="49.53" y1="68.7324" x2="49.53" y2="68.7372" width="0.1524" layer="1"/>
 <wire x1="54.7878" y1="72.9996" x2="54.81" y2="73.04" width="0.1524" layer="1"/>
-<wire x1="59.2836" y1="66.9798" x2="59.2836" y2="63.3984" width="0.1524" layer="1"/>
+<wire x1="59.2836" y1="66.9798" x2="59.2836" y2="63.582" width="0.1524" layer="1"/>
 <wire x1="57.531" y1="68.7324" x2="59.2836" y2="66.9798" width="0.1524" layer="1"/>
 <wire x1="53.4162" y1="72.8472" x2="57.531" y2="68.7324" width="0.1524" layer="16"/>
 <wire x1="52.4256" y1="72.8472" x2="53.4162" y2="72.8472" width="0.1524" layer="16"/>
@@ -4324,12 +4325,13 @@ design rules under a new name.</description>
 </via>
 <wire x1="57.0738" y1="63.3984" x2="57.7596" y2="63.3984" width="0.1524" layer="1"/>
 <wire x1="58.9026" y1="63.3984" x2="57.0738" y2="63.3984" width="0.1524" layer="16"/>
-<wire x1="59.2836" y1="63.3984" x2="58.9026" y2="63.3984" width="0.1524" layer="1"/>
+<wire x1="58.9026" y1="63.3984" x2="59.1" y2="63.3984" width="0.1524" layer="1"/>
 <wire x1="57.7596" y1="63.3984" x2="57.7855" y2="63.3576" width="0.1524" layer="1"/>
 <via x="57.0738" y="63.3984" extent="1-16" drill="0.15">
 </via>
 <via x="58.9026" y="63.3984" extent="1-16" drill="0.15">
 </via>
+<wire x1="59.1" y1="63.3984" x2="59.2836" y2="63.582" width="0.1524" layer="1"/>
 </signal>
 <signal name="RESE">
 <contactref element="J1" pad="3"/>
