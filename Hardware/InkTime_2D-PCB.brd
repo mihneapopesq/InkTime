@@ -2178,7 +2178,7 @@ design rules under a new name.</description>
 <attribute name="NAME" x="83.3504" y="58.98" size="1.27" layer="25"/>
 <attribute name="VALUE" x="83.3504" y="55.98" size="1.27" layer="27"/>
 </element>
-<element uuid="0xABCDEF18" name="D1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" package="ESP32_C6_LIBRARY_3_SOT95P280X145-6N" value="USBLC6-2SC6Y" x="80.01" y="72.39" smashed="yes">
+<element uuid="0xABCDEF18" name="D3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" package="ESP32_C6_LIBRARY_3_SOT95P280X145-6N" value="USBLC6-2SC6Y" x="80.01" y="72.39" smashed="yes">
 <attribute name="AVAILABILITY" value="In Stock" x="146.05" y="-90.17" size="1.778" layer="27" display="off"/>
 <attribute name="CHECK_PRICES" value="https://www.snapeda.com/parts/USBLC6-2SC6Y/STMicroelectronics/view-part/?ref=eda" x="146.05" y="-90.17" size="1.778" layer="27" display="off"/>
 <attribute name="DESCRIPTION" value=" 17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6 " x="146.05" y="-90.17" size="1.778" layer="27" display="off"/>
@@ -2665,7 +2665,7 @@ design rules under a new name.</description>
 <contactref element="R2_USB" pad="2"/>
 <contactref element="J4" pad="A1_B12"/>
 <contactref element="J4" pad="A12_B1"/>
-<contactref element="D1" pad="2"/>
+<contactref element="D3" pad="2"/>
 <contactref element="C42" pad="2"/>
 <contactref element="C43" pad="2"/>
 <contactref element="TP_BAT_GND" pad="TP"/>
@@ -3078,8 +3078,7 @@ design rules under a new name.</description>
 <wire x1="85.344" y1="68.58" x2="85.345" y2="68.58" width="0.1524" layer="1"/>
 <wire x1="84.7344" y1="69.7992" x2="84.7024" y2="69.85" width="0.1524" layer="1"/>
 <wire x1="86.5632" y1="67.056" x2="86.5632" y2="67.2846" width="0.1524" layer="1"/>
-<wire x1="86.3346" y1="66.8274" x2="86.5251" y2="67.0179" width="0.1524" layer="1"/>
-<wire x1="86.5251" y1="67.0179" x2="86.5632" y2="67.056" width="0.1524" layer="1"/>
+<wire x1="86.3346" y1="66.8274" x2="86.5632" y2="67.056" width="0.1524" layer="1"/>
 <wire x1="85.8774" y1="66.8274" x2="86.3346" y2="66.8274" width="0.1524" layer="1"/>
 <wire x1="85.4202" y1="67.2846" x2="85.8774" y2="66.8274" width="0.1524" layer="1"/>
 <wire x1="85.4202" y1="68.58" x2="85.4202" y2="67.2846" width="0.1524" layer="1"/>
@@ -3224,6 +3223,68 @@ design rules under a new name.</description>
 <vertex x="94.4238" y="70.7684375"/>
 <vertex x="92.8354" y="72.3568375"/>
 </polygon>
+<polygon width="0.1524" layer="16" spacing="1.27" pour="solid" thermals="yes">
+<vertex x="89.6568375" y="66.4646"/>
+<vertex x="89.68484375" y="66.4762"/>
+<vertex x="93.7684375" y="66.4762"/>
+<vertex x="93.8238" y="66.5315625"/>
+<vertex x="93.8238" y="75.9684375"/>
+<vertex x="91.9684375" y="77.8238"/>
+<vertex x="44.3315625" y="77.8238"/>
+<vertex x="44.1762" y="77.6684375"/>
+<vertex x="44.1762" y="38.4839625"/>
+<vertex x="44.5568375" y="38.8646"/>
+<vertex x="44.58484375" y="38.8762"/>
+<vertex x="94.7684375" y="38.8762"/>
+<vertex x="95.3238" y="39.4315625"/>
+<vertex x="95.3238" y="60.1684375"/>
+<vertex x="94.8684375" y="60.6238"/>
+<vertex x="89.58484375" y="60.6238"/>
+<vertex x="89.5568375" y="60.6354"/>
+<vertex x="89.5354" y="60.6568375"/>
+<vertex x="89.5238" y="60.68484375"/>
+<vertex x="89.5238" y="66.31515625"/>
+<vertex x="89.5354" y="66.3431625"/>
+</polygon>
+<polygon width="0.1524" layer="2" spacing="1.27" pour="solid" thermals="yes">
+<vertex x="89.7568375" y="66.3646"/>
+<vertex x="89.78484375" y="66.3762"/>
+<vertex x="93.5684375" y="66.3762"/>
+<vertex x="94.5238" y="67.3315625"/>
+<vertex x="94.5238" y="74.5684375"/>
+<vertex x="91.4684375" y="77.6238"/>
+<vertex x="44.2315625" y="77.6238"/>
+<vertex x="43.1762" y="76.5684375"/>
+<vertex x="43.1762" y="37.3762"/>
+<vertex x="95.0684375" y="37.3762"/>
+<vertex x="95.8238" y="38.1315625"/>
+<vertex x="95.8238" y="59.8684375"/>
+<vertex x="94.8684375" y="60.8238"/>
+<vertex x="89.78484375" y="60.8238"/>
+<vertex x="89.7568375" y="60.8354"/>
+<vertex x="89.7354" y="60.8568375"/>
+<vertex x="89.7238" y="60.88484375"/>
+<vertex x="89.7238" y="66.31515625"/>
+<vertex x="89.7354" y="66.3431625"/>
+</polygon>
+<via x="89.9" y="68.6" extent="1-16" drill="0.35" alwaysstop="yes">
+</via>
+<via x="58.6" y="46.6" extent="1-16" drill="0.35" alwaysstop="yes">
+</via>
+<via x="63.1" y="68.6" extent="1-16" drill="0.35" alwaysstop="yes">
+</via>
+<via x="79.9" y="52.4" extent="1-16" drill="0.35" alwaysstop="yes">
+</via>
+<via x="83.2" y="57.8" extent="1-16" drill="0.35" alwaysstop="yes">
+</via>
+<via x="71.5" y="59" extent="1-16" drill="0.35" alwaysstop="yes">
+</via>
+<via x="65" y="73.5" extent="1-16" drill="0.35" alwaysstop="yes">
+</via>
+<via x="79.3" y="55.3" extent="1-16" drill="0.35" alwaysstop="yes">
+</via>
+<via x="82.9" y="61.8" extent="1-16" drill="0.35" alwaysstop="yes">
+</via>
 </signal>
 <signal name="SWO">
 <contactref element="U1" pad="P$AD22"/>
@@ -4783,7 +4844,7 @@ design rules under a new name.</description>
 <signal name="DP">
 <contactref element="J4" pad="A6"/>
 <contactref element="J4" pad="B6"/>
-<contactref element="D1" pad="3"/>
+<contactref element="D3" pad="3"/>
 <wire x1="71.5518" y1="68.199" x2="71.5518" y2="68.7324" width="0.1524" layer="1"/>
 <wire x1="71.7804" y1="67.9704" x2="71.5518" y2="68.199" width="0.1524" layer="1"/>
 <wire x1="72.3138" y1="67.9704" x2="71.7804" y2="67.9704" width="0.1524" layer="1"/>
@@ -4800,7 +4861,7 @@ design rules under a new name.</description>
 <signal name="DN">
 <contactref element="J4" pad="A7"/>
 <contactref element="J4" pad="B7"/>
-<contactref element="D1" pad="1"/>
+<contactref element="D3" pad="1"/>
 <wire x1="72.0852" y1="70.7136" x2="72.0852" y2="70.485" width="0.1524" layer="1"/>
 <wire x1="72.0852" y1="70.485" x2="72.0852" y2="68.8086" width="0.1524" layer="1"/>
 <wire x1="73.6854" y1="72.3138" x2="72.0852" y2="70.7136" width="0.1524" layer="1"/>
@@ -4822,7 +4883,7 @@ design rules under a new name.</description>
 <signal name="VBUS/1.5D" class="1">
 <contactref element="J4" pad="A4_B9"/>
 <contactref element="J4" pad="A9_B4"/>
-<contactref element="D1" pad="5"/>
+<contactref element="D3" pad="5"/>
 <contactref element="C42" pad="1"/>
 <contactref element="C43" pad="1"/>
 <wire x1="69.8812" y1="68.7838" x2="69.8812" y2="66.5188" width="0.4" layer="1"/>
@@ -4866,10 +4927,10 @@ design rules under a new name.</description>
 <wire x1="70.485" y1="68.7324" x2="70.5312" y2="68.7838" width="0.1524" layer="1"/>
 </signal>
 <signal name="D-/1.5D">
-<contactref element="D1" pad="6"/>
+<contactref element="D3" pad="6"/>
 </signal>
 <signal name="D+/1.5D">
-<contactref element="D1" pad="4"/>
+<contactref element="D3" pad="4"/>
 </signal>
 <signal name="OUT+">
 <contactref element="TP_OP" pad="TP"/>
